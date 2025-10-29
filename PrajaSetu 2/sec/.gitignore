@@ -1,0 +1,9 @@
+# Ignore any private keys generated for demo
+private.pem
+private.key
+id_rsa
+id_rsa.pub
+*.pem
+*.key
+*.p12
+.secret
